@@ -1,0 +1,6 @@
+streamlit>=1.24.0
+opencv-python>=4.6.0
+numpy
+scipy
+joblib
+mediapipe  # optional but recommended; if it causes install trouble, remove from this file
