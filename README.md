@@ -1,1 +1,1 @@
-# DES646-Project---Deepfake-Guard
+# DES646-Project-Deepfake-Guard
